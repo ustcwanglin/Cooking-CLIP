@@ -19,7 +19,7 @@ Context-aware CLIP Embedding for Zero-shot Recipe Generation
 
 Or use the command to install all required packages in one line:
 ```shell
-$ pip install -r ./requirements.txt
+$ pip install -r requirements.txt
 
 
 ```
