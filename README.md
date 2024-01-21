@@ -1,5 +1,5 @@
 # Cooking-CLIP
-Context-aware CLIP Embedding for Zero-shot Recipe Generation
+Context-aware CLIP Pre-training for Zero-shot Recipe Generation
 
 ## Requirements
 
