@@ -38,7 +38,7 @@ $ python -m main.py --config=youcook2.py
 
 First generate the captions using the following command 
 ```
-python predictions_runner.py  --checkpoint path_to_checkpoints.pt 
+python predictions_runner.py  --checkpoint model.pth 
 ```
 To compute the CLIP/Bert score between images/reference and texts, make sure that the image/reference and text data are contained in two separate folders, and each sample has the same name in both modalities. Run the following command:
 ```
