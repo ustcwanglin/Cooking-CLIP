@@ -28,7 +28,7 @@ We obtained ASR sentences and corresponding temporal boundaries directly from [t
 Also note that spatially-pooled CLIP ViT-L/14 @ 224px features must be extracted at 1FPS (as done in [this project](https://github.com/antoyang/FrozenBiLM)) and added to the column name `image/clip_embeddings`.
 
 ## Train
-An example command-line to train on YouCook2 with [config file](configs/youcook2.py) is
+An example command-line to train on YouCook2 with [config file](https://github.com/ustcwanglin/Cooking-CLIP/blob/main/youcook2.py) is
 
 ```shell
 $ python -m main.py --config=youcook2.py 
