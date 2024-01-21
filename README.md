@@ -49,7 +49,7 @@ python -m bert_score -r example/refs.txt -c example/hyps.txt --lang en
 
 
 ## Pretrained models
-[cooking_clip](https://github.com/ustcwanglin/Cooking-CLIP/blob/main/model.pth)
+[model.pth](https://github.com/ustcwanglin/Cooking-CLIP/blob/main/model.pth)
 
 
 ## Note
